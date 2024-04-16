@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 <h2 class="post-list-heading">Blogs</h2>
-<ul class="post-list">
+<!-- <ul class="post-list">
   {% for post in site.posts %}
   <li>
     <h3>
@@ -14,4 +14,4 @@ title: Blog
     <span class="post-meta">{{ post.excerpt }}</span>
   </li>
   {% endfor %}
-</ul>
+</ul> -->
